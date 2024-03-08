@@ -1,6 +1,9 @@
-### Hi I'm Ido 👋
+### 👋 Hi there
 
-Welcome to my profile! I'm full time software engineer and part time adventure seeker. I am currenty developing Mbiz, biggest B2B marketplace in Indonesia. Mostly working on python and golang projects. Thank you and let's connect on [LinkedIn](https://linkedin.com/in/idoyudha/).
+I am material engineer who feel bored and switch career to software engineer. Experienced as Full Stack Developer. Interested in helping people, making life easier. And let's connect on [LinkedIn](https://linkedin.com/in/idoyudha/).
+
+- 🔭 I’m currently working on Go, Python, Javascript.
+- ⚡ Currently working at Mbiz, B2B marketplace in Indonesia.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=idoyudha)](https://git.io/streak-stats)
 <!--
