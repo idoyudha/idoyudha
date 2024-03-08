@@ -1,5 +1,7 @@
 ### Hi I'm Ido 👋
 
+![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
 Welcome to my profile! I'm full time software engineer and part time adventure seeker. I am currenty developing Mbiz, biggest B2B marketplace in Indonesia. Mostly working on python and golang projects.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=idoyudha)](https://git.io/streak-stats)
