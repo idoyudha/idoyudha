@@ -1,9 +1,9 @@
 ### 👋 Hi there
 
-I am a material engineering graduate who feels stuck and bored and decided to switching career to software engineering. Experienced as Full Stack Developer. Interested in helping people, making life easier. And let's connect on [LinkedIn](https://linkedin.com/in/idoyudha/).
+I am a material engineering graduate who feels stuck and bored and decided to switch careers to software engineering. Experienced as Full Stack Developer. Interested in helping people, making life easier. And let's connect on [LinkedIn](https://linkedin.com/in/idoyudha/).
 
-- 🔭 I’m currently working on Go, Python, and Javascript.
-- ⚡ Currently working at Mbiz, B2B marketplace in Indonesia.
+- 🔭 I’m currently working on Go, Python, Typescript, Javascript, Java and C#.
+- ⚡ Currently working at Aspire - All-in-one finance operating system for growing businesses in APAC.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=idoyudha)](https://git.io/streak-stats)
 <!--
