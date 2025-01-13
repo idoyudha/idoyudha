@@ -1,11 +1,14 @@
 ### 👋 Hi there
 
-I am a material engineering graduate who feels stuck and bored and decided to switch careers to software engineering. Experienced as Full Stack Developer. Interested in helping people, making life easier. And let's connect on [LinkedIn](https://linkedin.com/in/idoyudha/).
+I am a material engineering graduate who feels stuck and bored and decided to switch careers to software engineering. I am experienced as a full stack developer and am interested in helping people and making life easier. And let's connect on [LinkedIn](https://linkedin.com/in/idoyudha/).
+
+![](https://komarev.com/ghpvc/?username=idoyudha)
 
 - 🔭 I’m currently working on Go, Python, Typescript, Javascript, Java and C#.
 - ⚡ Currently working at Aspire - All-in-one finance operating system for growing businesses in APAC.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=idoyudha)](https://git.io/streak-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idoyudha&theme=radical&langs_count=5" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=idoyudha&theme=radical&line_height=27&rank_icon=github" />
 <!--
 **idoyudha/idoyudha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
