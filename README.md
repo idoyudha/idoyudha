@@ -7,7 +7,7 @@ I am a material engineering graduate who feels stuck and bored and decided to sw
 - 🔭 I’m currently working on Go, Python, Typescript, Javascript, Java and C#.
 - ⚡ Currently working at Aspire - All-in-one finance operating system for growing businesses in APAC.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idoyudha&theme=radical&langs_count=5" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idoyudha&theme=radical&langs_count=10" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=idoyudha&theme=radical&line_height=27&rank_icon=github" />
 <!--
 **idoyudha/idoyudha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
