@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-I am a material engineering graduate who feels stuck and bored and decided to switch careers to software engineering. I am experienced as a full-stack developer and interested in helping people and making life easier. And let's connect on [LinkedIn](https://linkedin.com/in/idoyudha/).
+I am a material engineering graduate who feels stuck and bored then decided to switch to software engineering role. I am experienced as a full-stack developer and interested in helping people and making life easier. And let's connect on [LinkedIn](https://linkedin.com/in/idoyudha/).
 
 ![](https://komarev.com/ghpvc/?username=idoyudha)
 
